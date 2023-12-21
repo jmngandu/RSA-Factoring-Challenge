@@ -1,0 +1,3 @@
+#!/usr/bin/python3
+"""Lets say hi to Mom in python"""
+print("Hi mom!")
